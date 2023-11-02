@@ -1,1 +1,0 @@
-This project is just a demo of git by tuandk1
