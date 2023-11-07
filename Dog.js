@@ -1,4 +1,4 @@
-var chalk = require('chalk');
+import chalk from 'chalk';
 
 function Dog() {
 	this.name = name;
