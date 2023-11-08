@@ -1,4 +1,4 @@
-import chalk from 'chalk';
+import { chalk } from 'chalk';
 
 function Dog() {
 	this.name = name;
