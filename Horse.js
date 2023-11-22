@@ -5,4 +5,4 @@ Horse.prototype.run = function(){
     console.log('Running')
 };
 
-module.exports = horse;
+module.exports = Horse;
